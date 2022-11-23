@@ -30,7 +30,7 @@ With this Python code it's possible to find the centroid of a regular or irregul
   
  <img src = "https://github.com/alejo1630/centroids/blob/main/Image_Readme/4.png" width="400">
  
-- The real centroid of the figure used in the example is $x = 145.09 mm$ and $x = 96.86mm$. This means an error of less of **1%** in the calculation of centroids in both x and y direction.
+- The real centroid of the figure used in the example is $x = 145.09 mm$ and $y = 96.86mm$. This means an error of less of **1%** in the calculation of centroids in both x and y direction.
   
 ## 🔶 What is next?
 - Calculate the centroid of geometric figures in recorded or live videos.
