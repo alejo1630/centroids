@@ -15,7 +15,7 @@ With this Python code it's possible to find the centroid of a regular or irregul
 <img src = "https://github.com/alejo1630/centroids/blob/main/Image_Readme/2.png" width="400">
 
 - This reference origin will be used to define the centroid's coodinates
-- After set the reference origin the user has to selecto another point to create a straight line. The current code is based in X direction but it could be modify to Y direction in line 61.
+- After set the reference origin the user has to select another point to create a straight line. The current code is based in X direction but it could be modify to Y direction in line 61.
 
 <img src = "https://github.com/alejo1630/centroids/blob/main/Image_Readme/3.png" width="400">
 
